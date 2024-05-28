@@ -1,0 +1,15 @@
+리엑트 실행
+
+npx execute npm package binaries 
+    # 사용법 
+      npx create-react-app <your-project-name>  // npm create-react-app 입력 후 생성할 프로젝트의 이름을 넣어주면 된다.
+    # 실제 사용 예제     
+      npx create-react-app myapp 
+    # 경로 변경(Change Directory)
+      cd myapp 
+    # 어플리케이션 실행 
+      npm start
+
+      
+
+
